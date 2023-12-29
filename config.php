@@ -87,7 +87,7 @@ define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 define("DB_HOST", "localhost");
 define("DB_USERNAME", "root");
 define("DB_PASSWORD", "");
-define("DB_NAME", "db_berkas");
+define("DB_NAME", "berkas");
 define("DB_TYPE", "mysql");
 define("DB_PORT", "");
 define("DB_CHARSET", "utf8");

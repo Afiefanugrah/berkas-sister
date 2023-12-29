@@ -2276,3 +2276,99 @@
 [29-Dec-2023 04:24:09 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
 [29-Dec-2023 04:24:09 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
 [29-Dec-2023 04:24:09 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\helpers\Functions.php on line 752
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:18 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$csrf_token is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$csrf_token is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 142
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:30 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\app\controllers\IndexController.php on line 25
+[29-Dec-2023 05:11:31 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$csrf_token is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 142
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\app\controllers\IndexController.php on line 25
+[29-Dec-2023 05:11:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$csrf_token is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 142
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\app\controllers\IndexController.php on line 25
+[29-Dec-2023 05:11:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\helpers\Functions.php on line 935
+[29-Dec-2023 05:21:23 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 129
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 130
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 131
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 132
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\Router.php on line 142
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 273
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$request_uri is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$csrf_token is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 276
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 142
+[29-Dec-2023 05:21:28 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\system\BaseController.php on line 210
+[29-Dec-2023 05:21:29 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\berkas\app\controllers\IndexController.php on line 25
+[29-Dec-2023 05:21:29 Europe/Berlin] PHP Deprecated:  Creation of dynamic property BaseView::$view_args is deprecated in C:\xampp\htdocs\berkas\system\BaseView.php on line 431
